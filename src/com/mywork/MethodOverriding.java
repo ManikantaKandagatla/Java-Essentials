@@ -1,10 +1,7 @@
-/**
- * 
- */
 package com.mywork;
 
 /**
- * @author mk186084
+ * @author Manikanta Kandagatla
  *
  */
 
@@ -17,7 +14,7 @@ public class MethodOverriding
 {
 
     /**
-     * 
+     * ss
      */
     public MethodOverriding()
     {
